@@ -44,6 +44,7 @@ body{
 .dsc-logo{
     height: 10%;
     width: 30%;
+    padding-top: 2%;
     background: url('../images/FullTextLogo.svg') center center no-repeat;
     background-size:100% auto;
     margin: auto auto;
