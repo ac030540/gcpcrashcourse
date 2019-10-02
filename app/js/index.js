@@ -10,15 +10,15 @@ $(document).ready(function(){
     // Link click actions
 
     $('.data').click(function(){
-        window.open('https://bit.ly/vitgcpdata')
+        window.open('http://bit.ly/gcpdscsiesgstdataandml')
     })
 
     $('.android').click(function(){
-        window.open('https://bit.ly/vitgcpapp')
+        window.open('http://bit.ly/gcpdscsiesgstapplication')
     })
 
     $('.ml').click(function(){
-        window.open('https://bit.ly/vitgcpdata')
+        window.open('http://bit.ly/gcpdscsiesgstdataandml')
     })
 
 })
